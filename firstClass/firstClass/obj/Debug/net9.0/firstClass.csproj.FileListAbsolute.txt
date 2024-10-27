@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/bin/Debug/net9.0/firstClass
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/bin/Debug/net9.0/firstClass.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/bin/Debug/net9.0/firstClass.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/bin/Debug/net9.0/firstClass.dll
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/bin/Debug/net9.0/firstClass.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/firstClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/firstClass.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/firstClass.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/firstClass.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/firstClass.dll
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/refint/firstClass.dll
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/firstClass.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/firstClass.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/firstClass/firstClass/obj/Debug/net9.0/ref/firstClass.dll
